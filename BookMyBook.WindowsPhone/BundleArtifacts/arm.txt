@@ -1,0 +1,2 @@
+MainPackage=D:\Windows\Projects\Windows8\BookMyBook\BookMyBook.WindowsPhone\bin\ARM\Release\BookMyBook.WindowsPhone_5.0.0.1_Bundle\BookMyBook.WindowsPhone_5.0.0.1_ARM.appx
+SymbolPackage=D:\Windows\Projects\Windows8\BookMyBook\BookMyBook.WindowsPhone\AppPackages\BookMyBook.WindowsPhone_5.0.0.1_Test\BookMyBook.WindowsPhone_5.0.0.1_ARM.appxsym
